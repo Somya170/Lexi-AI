@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "extreme-tide-472719-r1",
+  "private_key_id": "6e47f7077f5e54b8e6bb75f60d67cf4043eae5dd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZzM5gjR65SokQ\n9LXGlDfAq8UvOqTDpDCrjc+y/kzmHtV9ZIcCLS/4b3srRgGAlXZ4+SNCFh2FNrit\nUlUkfTeihxP+7vne+y73l8/eLCzgNfKolEv/QmuRjij0PWAr6F6FZ4/89JLUHkdJ\nK3h/dXHZCZZcy+Kb31r0jbq4H6uAGzaBxnN1qBqx2SM7MiuY1tL69FGukU0Ikx+m\nIcMVwuyKbm3IvDj15KvJBRWmyayd9FvbTjXkriLwO+Ja2s2bnuzHcUVzTZ04lPOK\n1GBFQFnQIpoHk54ZsuCBivvTGBsN7UyN7Ve6D41DcsXp662FjFDi0BjXTi5Dmhpm\nAYrZsYGnAgMBAAECggEAKYh6RIQ0uy3hBHg937/s/9Nht1duCxbY5yYUWPRQksOH\nf7F3Y21di/kqWj6v06bs4DXWSOhxubENN5QPQ3WTce1jXUaSJLjupG1xSNNQvXLc\nMtSQx30RiUC8Q5Mer1DREYyFsz2qcEPT4TqmcFvjmXlQEKMatBG8RQ1v8WOsrzFn\nMLhiwnyWu29+EyNbLFaxgk3jf0kd72/+tFf+ce2cEgbIPVPItJfczolagjizUoMG\nHkV6OUIps75uf+y1YeXVqD0I4OS8dWvNTS7gkuV7HWQjPUPjJmxXJ7s0Nn+QgGqC\nqRq25grEI6mR16AzPyxb4kVU20vrQ5JnCrwFtShqYQKBgQD0Bo8WVaSSWGXAFGkN\nz1Sv6uOPiHSoevVCXFelYR2v2Im3vTavxsCNgdjoXKsksMdpDaoWkPvytCjbAPMB\nUfXVTuSGDImCXw4LqC5f1ycCZoNiKvGrdu9sg2/rkn7cPke213xowE1idBiBPUPZ\nAYvRBeNCs5E1U2UuPwaoPpf7YQKBgQDkfM1ehUURJubQouZxde+basgInu9bsK02\n3lYMF0Z3qnNQ4c4mvXaUPN2j1Fd3MmT9gqrXXImJ3V+k/VAl32zwYsAziZjN9Z2W\nXoMaDNGi+yVi6UIqeBXG7mW1a/UwL5V2VsMylAAWQXHbCLCUV2/HNNlFhO34GUDi\nAoRa6l7iBwKBgQDJ6b9tmJGisdgHVhwS3DHTmcSPGDaGza6wKR4wbioVPVO+n6Zn\nTUo4DG/A3CSUKF3nk/Hf2DlQejev9pobxohl5nB6ZldFc4d4p8EvdiQF/XLKwIPU\n/4VeQWdTAZVMgY/vP1/mgO/G/g7kqR/BqGDbJEcGAvSsrgNzf5zvi1NQIQKBgDL2\ny3Ab1c3/mVhMHY6NOca2yKtzl/whqmEkspi70FH8yP/vfeYSOJLUCLP0NxY1PWV2\ncdjboSoJIL5SakAoV8o+nJRiSp0V/fJ+Xku/NDtgPXSUhtemNWVL44/V5ri6xGHC\n9IMhk+ti6ZxrkcdkwV/zn8rr3ZCLQXeoDBGjWUqdAoGAN8icMrP1qAmGc8LSdsGU\nFd1UnEetGW9QnnmXgefG9HIAO2byi6uUMAuKBe66LBfAojWz6QNrbzVoRx3yhp3+\njjh+SZgsYLHDmCtSDAY5B9TEQ3djEMFeskHN47+KHibWM9qLRqL1E8mY3dntchk0\nEoIDgp22Rl7hFXNon3bQhw8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "document-ai-editor@extreme-tide-472719-r1.iam.gserviceaccount.com",
+  "client_id": "111036673733759116260",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/document-ai-editor%40extreme-tide-472719-r1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
